@@ -1,18 +1,18 @@
 # Sentiment Analysis using Logistic Regression
-Step to step implementation of using logistic regression for sentiment analysis of Amazon fine food review
+Step by step implementation of using logistic regression for sentiment analysis of Amazon fine food review
 
 ## Amazon Fine Food Reviews Analysis
-Data Source: [https://www.kaggle.com/snap/amazon-fine-food-reviews]
+Data Source:  https://www.kaggle.com/snap/amazon-fine-food-reviews
 
-EDA: [https://nycdatascience.com/blog/student-works/amazon-fine-foods-visualization/]
+EDA: https://nycdatascience.com/blog/student-works/amazon-fine-foods-visualization/ <br>
 <br>
 The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amazon.
 <br>
-Number of reviews: 568,454<br>
-Number of users: 256,059<br>
-Number of products: 74,258<br>
-Timespan: Oct 1999 - Oct 2012<br>
-Number of Attributes/Columns in data: 10 <br>
+<li>Number of reviews: 568,454</li><br>
+<li>Number of users: 256,059</li><br>
+<li>Number of products: 74,258</li><br>
+<li>Timespan: Oct 1999 - Oct 2012</li><br>
+<li>Number of Attributes/Columns in data: 10</li> <br>
 <br>
 Attribute Information:
 <br>
