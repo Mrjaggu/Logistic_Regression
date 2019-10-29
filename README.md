@@ -6,7 +6,7 @@ Data Source:  https://www.kaggle.com/snap/amazon-fine-food-reviews
 
 EDA: https://nycdatascience.com/blog/student-works/amazon-fine-foods-visualization/ <br>
 <br>
-The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amazon.
+<b>The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amazon.</b>
 <br>
 <li>Number of reviews: 568,454</li><br>
 <li>Number of users: 256,059</li><br>
@@ -14,18 +14,18 @@ The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amaz
 <li>Timespan: Oct 1999 - Oct 2012</li><br>
 <li>Number of Attributes/Columns in data: 10</li> <br>
 <br>
-Attribute Information:
+<b>Attribute Information:</b>
 <br>
-Id<br>
-ProductId - unique identifier for the product<br>
-UserId - unqiue identifier for the user<br>
-ProfileName<br>
-HelpfulnessNumerator - number of users who found the review helpful<br>
-HelpfulnessDenominator - number of users who indicated whether they found the review helpful or not
-Score - rating between 1 and 5<br>
-Time - timestamp for the review<br>
-Summary - brief summary of the review<br>
-Text - text of the review<br>
+<li>Id</li><br>
+<li>ProductId - unique identifier for the product</li><br>
+<li>UserId - unqiue identifier for the user</li><br>
+<li>ProfileName</li><br>
+<li>HelpfulnessNumerator - number of users who found the review helpful</li><br>
+<li>HelpfulnessDenominator - number of users who indicated whether they found the review helpful or not</li><br>
+<li>Score - rating between 1 and 5</li><br>
+<li>Time - timestamp for the review</li><br>
+<li>Summary - brief summary of the review</li><br>
+<li>Text - text of the review</li><br>
 
 ## Objective:
 Given a review, determine whether the review is positive (rating of 4 or 5) or negative (rating of 1 or 2).
